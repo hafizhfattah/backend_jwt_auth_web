@@ -1,6 +1,6 @@
 ### 📦 **Backend JWT Auth Web**
 
-This JWT Auth Web for Backend Section
+This JWT Auth Web for Backend Section.
 Made With MySQL, Express, ReactJS, NodeJS (MERN)
 
 ### 🚀 **Getting Started**
